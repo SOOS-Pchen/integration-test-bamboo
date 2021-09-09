@@ -1,0 +1,8 @@
+numpy
+scipy
+tensorflow
+flair
+fastai
+azure
+mlxtend 
+xgboost
