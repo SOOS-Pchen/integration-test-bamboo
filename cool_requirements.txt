@@ -6,3 +6,4 @@ fastai
 azure
 mlxtend 
 xgboost
+chinesechinesechinese
