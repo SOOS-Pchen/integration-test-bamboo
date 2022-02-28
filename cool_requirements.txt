@@ -1,4 +1,6 @@
 numpy
+orbit
+qiskit
 scipy
 tensorflow
 flair
@@ -6,4 +8,3 @@ fastai
 azure
 mlxtend 
 xgboost
-chinesechinesechinese
